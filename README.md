@@ -1,1 +1,1 @@
-<h1>Un pequeño juego de pokemon echo en python. Espero te guste👻</h1>
+<h3>Un pequeño juego de pokemon echo en python. Espero te guste👻</h3>
